@@ -1,2 +1,2 @@
 # hello-world
-A simple snippet of code that spits out "Hello World!". Extended at will.
+Hey! My name is Till, and I'm just trying this stuff out.
